@@ -1,6 +1,6 @@
-<img src="https://files.catbox.moe/q8hcg3.jpg" align="right" width="200" height="200"/>
+<img src="https://files.catbox.moe/gltpjg.jpg" align="right" width="200" height="200"/>
 
-𝗚𝗮𝗮𝗻𝗮  𝗠𝘂𝘀𝗶𝗰  🎶 <img src="https://img.shields.io/github/v/release/TeamDns/DnsXMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+𝗤𝗨𝗘𝗘𝗡 𝗠𝗨𝗦𝗜𝗖 🎶 <img src="https://img.shields.io/github/v/release/TeamDns/DnsXMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
 [Gaana Music](https://github.com/TeamDns/DnsXMusicBot) is a powerful Telegram Music + Video Bot written in Python, using Pyrogram and Py-Tgcalls. You can stream songs, videos, and even live streams in your group calls from multiple sources.
 
@@ -20,11 +20,11 @@
 
 ## 🚀 Heroku Deployment
 
-Click the button below to easily deploy **Dns Music Bot** on Heroku!
+Click the button below to easily deploy **𝖰𝗎𝖾𝖾𝗇 𝖬𝗎𝗌𝗂𝖼 𝖡𝗈𝗍** on Heroku!
 
 > If you encounter an error during app creation, try forking the repository first.
 
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Rajputshivsingh65/Gaana-Music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Yewsdhi/QUEEN-MUSIC"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a>
 
 ---
 ## 🖇️ VPS Deployment Guide
@@ -34,7 +34,7 @@ Click the button below to easily deploy **Dns Music Bot** on Heroku!
 
 2. **Clone the Repository**
    ```bash
-   git clone https://github.com/Rajputshivsingh65/Gaana-Music && cd Gaana-Music
+   git clone https://github.com/Yewsdhi/QUEEN-MUSIC && cd QUEEN-MUSIC
    ```
 
 3. **Run the setup**
@@ -50,7 +50,7 @@ Click the button below to easily deploy **Dns Music Bot** on Heroku!
 
 5. **Run the Bot**
    ```bash
-   python3 -m Gaana-Music
+   python3 -m QUEEN-MUSIC
    ```
 
 6. **Detach from tmux session**
@@ -58,7 +58,7 @@ Click the button below to easily deploy **Dns Music Bot** on Heroku!
 
 ___
 
-# 🎶 Gaana Music Configurations
+# 🎶 𝖰𝗎𝖾𝖾𝗇 Music Configurations
 
 To get started with configuring Dns Music, check out the detailed instructions [here](https://github.com/MISH0009/DNS/blob/master/config/README.md).
 
